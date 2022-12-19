@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-$mlso%#tb^_=^p%z_g5t(2a7uxlhu!aqrg^%&4m^o0ua4ei$)-
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    ".ap-northeast-2.compute.amazonaws.com"
+    ".ap-northeast-2.compute.amazonaws.com",
+    ".swholdingsstocksummarize.com",
 ]
 
 
